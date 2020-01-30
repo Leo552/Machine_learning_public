@@ -1,2 +1,2 @@
 # Machine_learning_public
-My machine learning algorithms
+Machine learning algorithms without third party libraries
