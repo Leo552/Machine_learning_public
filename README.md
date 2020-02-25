@@ -1,2 +1,2 @@
 # Machine_learning_public
-Machine learning algorithms without third party libraries
+Machine learning algorithms without third party libraries coded in python.
